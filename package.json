@@ -1,0 +1,14 @@
+{
+  "name": "compare-mobx-and-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mobx.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mobx": "^3.3.1",
+    "redux": "^3.7.2",
+    "redux-saga": "^0.16.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
